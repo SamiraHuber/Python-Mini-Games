@@ -1,5 +1,7 @@
 # Python-Mini-Games
 
+# TIC-TAC-TOE
+
 Quote from Wikipedia (Tic Tac Toe#Strategy)
 
 A player can play a perfect game of Tic-tac-toe (to win or, at least, draw) if they choose the first available move from the following list, each turn, as used in Newell and Simon's 1972 tic-tac-toe program.[6]
@@ -16,3 +18,13 @@ Center: Play the center.
 Opposite Corner: If the opponent is in the corner, play the opposite corner.
 Empty Corner: Play an empty corner.
 Empty Side: Play an empty side.
+
+# HANGMAN-GAME
+
+Quote from Wikipedia (Hangman (game)#Overview)
+
+The word to guess is represented by a row of dashes, representing each letter of the word. In most variants, proper nouns, such as names, places, and brands, are not allowed. Slang words, sometimes referred to as informal or shortened words, are also not allowed. If the guessing player suggests a letter which occurs in the word, the other player writes it in all its correct positions. If the suggested letter does not occur in the word, the other player draws one element of a hanged man stick figure as a tally mark.
+
+Quote from Wikipedia (Hangman (game)#Strategy)
+
+The fact that the twelve most commonly occurring letters in the English language are e-t-a-o-i-n-s-h-r-d-l-u (from most to least), along with other letter-frequency lists, are used by the guessing player to increase the odds when it is their turn to guess. On the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word that deliberately avoids common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
