@@ -28,3 +28,9 @@ The word to guess is represented by a row of dashes, representing each letter of
 Quote from Wikipedia (Hangman (game)#Strategy)
 
 The fact that the twelve most commonly occurring letters in the English language are e-t-a-o-i-n-s-h-r-d-l-u (from most to least), along with other letter-frequency lists, are used by the guessing player to increase the odds when it is their turn to guess. On the other hand, the same lists can be used by the puzzle setter to stump their opponent by choosing a word that deliberately avoids common letters (e.g. rhythm or zephyr) or one that contains rare letters (e.g. jazz).
+
+# SUDOKU-SOLVER
+
+Quote from Wikipedia (Sudoku solving algorithms #Techniques #Backtracking)
+
+Some hobbyists have developed computer programs that will solve Sudoku puzzles using a backtracking algorithm, which is a type of brute force search.[2] Backtracking is a depth-first search (in contrast to a breadth-first search), because it will completely explore one branch to a possible solution before moving to another branch. Although it has been established that approximately 5.96 x 1126 final grids exist, a brute force algorithm can be a practical method to solve Sudoku puzzles.
